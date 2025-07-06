@@ -4,7 +4,7 @@ def lwsum(x,y):
 
 print(lwsum(5,6))
 
-def multiplicatoi(x,y):
+def multiplication(x,y):
  c=x*y
  return c
 
